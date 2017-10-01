@@ -1,0 +1,26 @@
+{
+  "name": "petstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilags/petstore.git"
+  },
+  "author": "daniel sidabutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilags/petstore/issues"
+  },
+  "homepage": "https://github.com/danilags/petstore#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongoose": "^4.11.14",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1"
+  }
+}
